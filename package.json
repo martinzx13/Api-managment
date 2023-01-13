@@ -6,9 +6,14 @@
   "scripts": {
     "deploy": "gh-pages -d src"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:martinzx13/Api-managment.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "https://github.com/martinzx13/Api-managment#readme",
   "devDependencies": {
     "gh-pages": "^4.0.0"
   }
